@@ -24,10 +24,14 @@ header img{
   float: left;
   margin-right: 75px;
 }
-
+header ul{
+  width: 100%;
+}
 header ul li{
   border: 2px solid green;
-  margin-top: 50px;
+  margin-top: 40px;
+  padding: 10px 20px;
+
 }
 a{
   text-decoration: none;
